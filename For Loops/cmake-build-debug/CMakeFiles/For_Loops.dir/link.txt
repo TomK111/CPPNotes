@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/For_Loops.dir/main.cpp.o  -o For_Loops 
