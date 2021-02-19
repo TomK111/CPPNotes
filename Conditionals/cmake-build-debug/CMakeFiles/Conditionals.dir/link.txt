@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Conditionals.dir/main.cpp.o  -o Conditionals 

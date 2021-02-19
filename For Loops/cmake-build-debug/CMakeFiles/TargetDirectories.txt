@@ -1,0 +1,3 @@
+/home/tomislav/Desktop/CPPTutorial/For Loops/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tomislav/Desktop/CPPTutorial/For Loops/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tomislav/Desktop/CPPTutorial/For Loops/cmake-build-debug/CMakeFiles/For_Loops.dir
