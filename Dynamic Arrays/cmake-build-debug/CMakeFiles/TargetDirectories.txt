@@ -1,3 +1,0 @@
-/home/tomislav/Desktop/CPPTutorial/Dynamic Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/tomislav/Desktop/CPPTutorial/Dynamic Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/tomislav/Desktop/CPPTutorial/Dynamic Arrays/cmake-build-debug/CMakeFiles/Dynamic_Arrays.dir
