@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Generic_Functions_and_Templates.dir/main.cpp.o CMakeFiles/Generic_Functions_and_Templates.dir/Swap.cpp.o  -o Generic_Functions_and_Templates 

@@ -1,3 +1,0 @@
-/home/tomislav/Desktop/CPPTutorial/Generic Functions and Templates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/tomislav/Desktop/CPPTutorial/Generic Functions and Templates/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/tomislav/Desktop/CPPTutorial/Generic Functions and Templates/cmake-build-debug/CMakeFiles/Generic_Functions_and_Templates.dir
