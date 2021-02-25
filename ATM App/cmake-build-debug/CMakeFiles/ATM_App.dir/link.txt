@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ATM_App.dir/main.cpp.o  -o ATM_App 
