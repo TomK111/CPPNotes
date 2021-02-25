@@ -1,3 +1,0 @@
-/home/tomislav/Desktop/CPPTutorial/Pointers and Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/tomislav/Desktop/CPPTutorial/Pointers and Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/tomislav/Desktop/CPPTutorial/Pointers and Arrays/cmake-build-debug/CMakeFiles/Pointers_and_Arrays.dir

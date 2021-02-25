@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Pointers_and_Arrays.dir/main.cpp.o  -o Pointers_and_Arrays 
