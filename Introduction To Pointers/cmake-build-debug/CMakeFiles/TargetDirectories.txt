@@ -1,3 +1,0 @@
-/home/tomislav/Desktop/CPPTutorial/Introduction To Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/tomislav/Desktop/CPPTutorial/Introduction To Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/tomislav/Desktop/CPPTutorial/Introduction To Pointers/cmake-build-debug/CMakeFiles/Introduction_To_Pointers.dir
