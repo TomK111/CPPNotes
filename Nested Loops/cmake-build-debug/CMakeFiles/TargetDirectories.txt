@@ -1,3 +1,0 @@
-/home/tomislav/Desktop/CPPTutorial/Nested Loops/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/tomislav/Desktop/CPPTutorial/Nested Loops/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/tomislav/Desktop/CPPTutorial/Nested Loops/cmake-build-debug/CMakeFiles/Nested_Loops.dir
